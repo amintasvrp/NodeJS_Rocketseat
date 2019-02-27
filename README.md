@@ -1,4 +1,4 @@
-# NodeJS_Rocketseat
+# NodeJS Rocketseat
 
 Repository for the REST API developed during the Rocketseat's NodeJS course.
 
