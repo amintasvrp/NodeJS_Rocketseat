@@ -1,6 +1,6 @@
-# NodeJS Rocketseat
+# Product Manager Core
 
-Repository for the REST API developed during the Rocketseat's NodeJS course.
+Repository for a Product Manager REST API. It was developed during the [Rocketseat's Starter NodeJS course](https://skylab.rocketseat.com.br/node/curso-node-js).
 
 ## Getting Started
 1. Clone the repository and install depencencies:
@@ -22,7 +22,9 @@ Use clients (front-end) for testing, such as [Postman](https://www.getpostman.co
 This project is ready to deploy.
 
 ## Built With
-* [NodeJS](https://nodejs.org/en/) - The web framework used
+* [Node.js](https://nodejs.org/en/) - Web framework used
+* [Express](https://expressjs.com/) - Web framework for Node.js
+* [Mongoose](https://mongoosejs.com/) - MongoDB object modeling for Node.js 
 
 ## Contributing
 Make a pull request and make clear what changes have been made and which bugs persist. Do not introduce bugs, be proactive!
@@ -33,7 +35,6 @@ Make a pull request and make clear what changes have been made and which bugs pe
  If you contributed with this project, your name will be placed here. Welcome to the hall of fame :)
 
 ## Acknowledgments
-* JavaScript and ECMAScript 6
-* Knowledge about NodeJS
+* JavaScript and ECMAScript 6+
+* Knowledge about Node.js
 * Willingness to learn, research and develop (no laziness!)
-
