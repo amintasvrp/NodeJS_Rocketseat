@@ -1,6 +1,6 @@
 # Product Manager Core
 
-Repository for a Product Manager REST API. It was developed during the [Rocketseat's Starter NodeJS course](https://skylab.rocketseat.com.br/node/curso-node-js).
+Repository for a Product Manager REST API. It was developed during the [Rocketseat's Starter Node.js course](https://skylab.rocketseat.com.br/node/curso-node-js).
 
 ## Getting Started
 1. Clone the repository and install depencencies:
